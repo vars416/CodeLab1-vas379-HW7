@@ -1,6 +1,6 @@
 {
-    "title": "Lobby",
-    "description": "Welcome to NYU Game Center.\n\nGo FORWARD to enter into the Reception\n",
+    "title": "Kitchen",
+    "description": "Someone's Coffee is bubbling in the Keurig.\n\nA kid is quietly sitting in one corner, eating their breakfast.\n\nGo LEFT to reach the Reception\n",
     "Forward": 1,
     "Backward": 3,
     "Right": -1,

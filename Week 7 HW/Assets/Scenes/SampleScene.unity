@@ -829,12 +829,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: {fileID: 275940230}
-  description: {fileID: 0}
-  Forward: {fileID: 0}
-  Backward: {fileID: 0}
-  Right: {fileID: 0}
-  Left: {fileID: 0}
-  numLocations: 0
+  description: {fileID: 464975366}
+  Forward: {fileID: 1495517274}
+  Backward: {fileID: 1452790423}
+  Right: {fileID: 1026998775}
+  Left: {fileID: 794417668}
+  numLocations: 4
 --- !u!1 &1229722470
 GameObject:
   m_ObjectHideFlags: 0

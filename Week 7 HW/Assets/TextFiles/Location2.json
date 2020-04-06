@@ -1,6 +1,6 @@
 {
-    "title": "",
-    "description": "Welcome to NYU Game Center.\n\nGo FORWARD to enter into the Reception\n",
+    "title": "Open area outside Library",
+    "description": "A few kids are busily workng on their PCs.\n\nYou can go BACK to the reception or turn RIGHT to go to the Library",
     "Forward": 1,
     "Backward": 3,
     "Right": -1,

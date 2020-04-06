@@ -1,6 +1,6 @@
 {
     "title": "Lobby",
-    "description": "Welcome to NYU Game Center.\n\nGo FORWARD to enter into the Reception\n",
+    "description": "Welcome to NYU Game Center.\n\nGo FORWARD to enter into the Reception.",
     "Forward": 1,
     "Backward": 3,
     "Right": -1,
